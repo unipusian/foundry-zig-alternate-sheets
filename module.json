@@ -1,60 +1,54 @@
 {
-    "name": "zig-alternate-sheets",
-    "title": "Ziggurat Alternate Sheets",
-    "description": "",
-    "version": "1.0.0",
-    "library": "false",
-    "manifestPlusVersion": "1.2.0",
-    "minimumCoreVersion": "10",
-    "compatibleCoreVersion": "10",
-    "compatibility": {
-        "minimum": 10,
-        "verified": 10
-    },
-    "authors": [
-        {
-            "name": "Justin Ross",
-            "url": "https://github.com/justinross",
-            "discord": "thsjstin#5654"
-        },
-        {
-            "name": "unipus"
-        }
-    ],
-    "dependencies": [
-        {
-            "name": "ziggurat",
-            "manifest": "https://github.com/unipusian/foundryvtt-ziggurat/master/system.json",
-            "type": "system"
-        },
-        {
-            "name": "lib-wrapper"
-        }
-    ],
-    "conflicts": [],
-    "esmodules": [
-        "/scripts/module.js"
-    ],
-    "scripts": [
-        "scripts/lib/markdown-it.min.js"
-    ],
-    "styles": [
-        "/styles/css/bitd-alt.css"
-    ],
-    "languages": [
-        {
-            "lang": "en",
-            "name": "English",
-            "path": "languages/en.json"
-        }
-    ],
-    "url": "https://github.com/unipusian/foundry-zig-alternate-sheets",
-    "manifest": "https://raw.githubusercontent.com/unipusian/foundry-zig-alternate-sheets/master/module.json",
-    "download": "https://github.com/unipusian/foundry-zig-alternate-sheets/archive/refs/tags/v0.1.zip",
-    "media": [
-        {
-            "type": "icon",
-            "url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
-        }
-    ]
+	"name": "zig-alternate-sheets",
+	"title": "Ziggurat Alternate Sheets",
+	"description": "",
+	"version": "1.0.0",
+	"library": "false",
+	"manifestPlusVersion": "1.2.0",
+	"minimumCoreVersion": "10",
+	"compatibleCoreVersion": "10",
+	"compatibility": {
+		"minimum": 10,
+		"verified": 10
+	},
+	"authors": [{
+			"name": "Justin Ross",
+			"url": "https://github.com/justinross",
+			"discord": "thsjstin#5654"
+		},
+		{
+			"name": "unipus"
+		}
+	],
+	"dependencies": [{
+			"name": "ziggurat",
+			"manifest": "https://github.com/unipusian/foundryvtt-ziggurat/master/system.json",
+			"type": "system"
+		},
+		{
+			"name": "lib-wrapper"
+		}
+	],
+	"conflicts": [],
+	"esmodules": [
+		"/scripts/module.js"
+	],
+	"scripts": [
+		"scripts/lib/markdown-it.min.js"
+	],
+	"styles": [
+		"/styles/css/bitd-alt.css"
+	],
+	"languages": [{
+		"lang": "en",
+		"name": "English",
+		"path": "languages/en.json"
+	}],
+	"url": "https://github.com/unipusian/foundry-zig-alternate-sheets",
+	"manifest": "https://raw.githubusercontent.com/unipusian/foundry-zig-alternate-sheets/master/module.json",
+	"download": "https://github.com/unipusian/foundry-zig-alternate-sheets/archive/refs/tags/v0.1.zip",
+	"media": [{
+		"type": "icon",
+		"url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
+	}]
 }
