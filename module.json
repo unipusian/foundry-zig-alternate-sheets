@@ -12,13 +12,15 @@
 		"verified": 10
 	},
 	"authors": [{
+				
+			"name": "unipus"
+		},
+		{	
 			"name": "Justin Ross",
 			"url": "https://github.com/justinross",
 			"discord": "thsjstin#5654"
-		},
-		{
-			"name": "unipus"
 		}
+
 	],
 	"dependencies": [{
 			"name": "ziggurat",
