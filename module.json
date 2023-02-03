@@ -48,7 +48,7 @@
 	}],
 	"url": "https://github.com/unipusian/foundry-zig-alternate-sheets",
 	"manifest": "https://raw.githubusercontent.com/unipusian/foundry-zig-alternate-sheets/master/module.json",
-	"download": "https://github.com/unipusian/foundry-zig-alternate-sheets/archive/refs/tags/v0.1.zip",
+	"download": "https://github.com/unipusian/foundry-zig-alternate-sheets/archive/refs/tags/v0.1.1.zip",
 	"media": [{
 		"type": "icon",
 		"url": "https://avatars2.githubusercontent.com/u/71292812?s=400&u=ccdb4eeb7abf551ca8f314e5a9bfd0479a4d3d41&v=4"
